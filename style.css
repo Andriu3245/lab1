@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: yellow;
+}
+div{
+background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: stretch;
+}
+p{
+    color: yellow;
+}
+img{
+    width:50px ;
+    
+}
